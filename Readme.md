@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/NumericRangeControlClient/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/NumericRangeControlClient/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/NumericRangeControlClient/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/NumericRangeControlClient/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/NumericRangeControlClient/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/NumericRangeControlClient/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to bind a numeric chart range control client to an array of simple type objects
