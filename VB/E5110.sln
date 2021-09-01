@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NumericRangeControlClient", "NumericRangeControlClient\NumericRangeControlClient.vbproj", "{2F84CB60-AA1B-43A1-9812-2013C1087E3C}"
 EndProject

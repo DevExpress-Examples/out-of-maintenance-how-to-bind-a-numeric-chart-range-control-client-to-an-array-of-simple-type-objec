@@ -25,8 +25,6 @@
 ' You can find sample updates and versions for different programming languages here:
 ' http://www.devexpress.com/example=E5110
 
-
-Imports Microsoft.VisualBasic
 Imports System
 Imports System.Collections.Generic
 Imports System.Configuration
@@ -41,5 +39,6 @@ Namespace NumericRangeControlClient
 	''' </summary>
 	Partial Public Class App
 		Inherits Application
+
 	End Class
 End Namespace
